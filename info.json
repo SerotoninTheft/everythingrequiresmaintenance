@@ -1,0 +1,9 @@
+{
+  "name": "everythingrequiresmaintenance",
+  "version": "0.1.0",
+  "title": "Everything Requires Maintenance",
+  "author": "serotonintheft",
+  "description": "Over time, every building slowly takes damage from the rough nauvitian atmosphere, requiring constant maintenance. Default is 15 damage every 15000 ticks",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"]
+}
